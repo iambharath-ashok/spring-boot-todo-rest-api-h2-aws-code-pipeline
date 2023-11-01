@@ -9,7 +9,7 @@ public class HelloWorldBean {
 	}
 
 	public String getMessage() {
-		return message;
+		return message + "version 2";
 	}
 
 	public void setMessage(String message) {
