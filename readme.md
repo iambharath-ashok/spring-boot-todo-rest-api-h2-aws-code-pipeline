@@ -2,7 +2,6 @@
 
 Run com.bharath.learning.restfulwebservices.RestfulWebServicesApplication as a Java Application.
 
-
 ## Hello World Resource
 
 - http://localhost:5000/hello-world
